@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/205493946737223507/60b9f4c2525a4789bd75bfc3ee83569f/artifacts
+end_time: 1756021353468
+entry_point_name: ''
+experiment_id: '205493946737223507'
+lifecycle_stage: active
+run_id: 60b9f4c2525a4789bd75bfc3ee83569f
+run_name: amusing-ray-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756021350972
+status: 3
+tags: []
+user_id: codespace

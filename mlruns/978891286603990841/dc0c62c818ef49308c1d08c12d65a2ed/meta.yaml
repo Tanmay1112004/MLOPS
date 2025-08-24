@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/978891286603990841/dc0c62c818ef49308c1d08c12d65a2ed/artifacts
+end_time: 1756013064783
+entry_point_name: ''
+experiment_id: '978891286603990841'
+lifecycle_stage: active
+run_id: dc0c62c818ef49308c1d08c12d65a2ed
+run_name: logreg_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756013061426
+status: 3
+tags: []
+user_id: codespace

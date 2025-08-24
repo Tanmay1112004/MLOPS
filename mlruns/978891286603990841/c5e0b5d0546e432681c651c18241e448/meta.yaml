@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/978891286603990841/c5e0b5d0546e432681c651c18241e448/artifacts
+end_time: 1756012487392
+entry_point_name: ''
+experiment_id: '978891286603990841'
+lifecycle_stage: active
+run_id: c5e0b5d0546e432681c651c18241e448
+run_name: casual-ape-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756012484462
+status: 3
+tags: []
+user_id: codespace

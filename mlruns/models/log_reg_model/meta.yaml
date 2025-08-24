@@ -1,0 +1,8 @@
+aliases:
+  prodserver: '1'
+creation_timestamp: 1756013064533
+deployment_job_id: null
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1756020016372
+name: log_reg_model

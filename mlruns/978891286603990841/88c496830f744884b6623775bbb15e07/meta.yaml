@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/978891286603990841/88c496830f744884b6623775bbb15e07/artifacts
+end_time: 1756012470235
+entry_point_name: ''
+experiment_id: '978891286603990841'
+lifecycle_stage: active
+run_id: 88c496830f744884b6623775bbb15e07
+run_name: gentle-shrimp-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756012467255
+status: 3
+tags: []
+user_id: codespace

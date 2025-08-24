@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/978891286603990841/45e36805914148cd850087a4514312b3/artifacts
+end_time: 1756012461808
+entry_point_name: ''
+experiment_id: '978891286603990841'
+lifecycle_stage: active
+run_id: 45e36805914148cd850087a4514312b3
+run_name: placid-hawk-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756012456877
+status: 3
+tags: []
+user_id: codespace

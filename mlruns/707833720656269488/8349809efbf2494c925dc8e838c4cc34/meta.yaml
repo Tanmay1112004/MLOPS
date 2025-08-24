@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/707833720656269488/8349809efbf2494c925dc8e838c4cc34/artifacts
+end_time: 1756014576597
+entry_point_name: ''
+experiment_id: '707833720656269488'
+lifecycle_stage: active
+run_id: 8349809efbf2494c925dc8e838c4cc34
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756014573165
+status: 3
+tags: []
+user_id: codespace

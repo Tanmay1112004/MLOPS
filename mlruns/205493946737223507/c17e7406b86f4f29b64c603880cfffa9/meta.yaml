@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/205493946737223507/c17e7406b86f4f29b64c603880cfffa9/artifacts
+end_time: 1756021350969
+entry_point_name: ''
+experiment_id: '205493946737223507'
+lifecycle_stage: active
+run_id: c17e7406b86f4f29b64c603880cfffa9
+run_name: omniscient-grub-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756021347715
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/205493946737223507/a392d7b3dadd43759bbdca35fb371747/artifacts
+end_time: 1756021719464
+entry_point_name: ''
+experiment_id: '205493946737223507'
+lifecycle_stage: active
+run_id: a392d7b3dadd43759bbdca35fb371747
+run_name: skittish-stoat-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756021716947
+status: 3
+tags: []
+user_id: codespace

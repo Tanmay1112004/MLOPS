@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/707833720656269488/cd9a8aff400146178058c7c45e3cd349/artifacts
+end_time: 1756014598225
+entry_point_name: ''
+experiment_id: '707833720656269488'
+lifecycle_stage: active
+run_id: cd9a8aff400146178058c7c45e3cd349
+run_name: XGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756014594604
+status: 3
+tags: []
+user_id: codespace

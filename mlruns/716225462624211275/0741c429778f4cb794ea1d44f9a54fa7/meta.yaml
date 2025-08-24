@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/716225462624211275/0741c429778f4cb794ea1d44f9a54fa7/artifacts
+end_time: 1756019537392
+entry_point_name: ''
+experiment_id: '716225462624211275'
+lifecycle_stage: active
+run_id: 0741c429778f4cb794ea1d44f9a54fa7
+run_name: XGBClassifier With SMOTE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756018530664
+status: 3
+tags: []
+user_id: codespace

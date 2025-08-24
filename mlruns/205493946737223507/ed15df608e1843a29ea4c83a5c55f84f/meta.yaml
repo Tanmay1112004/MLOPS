@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/205493946737223507/ed15df608e1843a29ea4c83a5c55f84f/artifacts
+end_time: 1756021716945
+entry_point_name: ''
+experiment_id: '205493946737223507'
+lifecycle_stage: active
+run_id: ed15df608e1843a29ea4c83a5c55f84f
+run_name: calm-mouse-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756021713755
+status: 3
+tags: []
+user_id: codespace
